@@ -1,3 +1,3 @@
 # 🚨 This repository moved!
 
-You can find it here: https://github.com/lkbaerenfaenger/hyperskill-kotlin-basics 
+You can find it here: https://github.com/pygumby/hyperskill-kotlin-basics 
